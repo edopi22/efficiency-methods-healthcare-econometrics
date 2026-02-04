@@ -4,7 +4,8 @@ Econometric methods for healthcare efficiency analysis, with focus on residentia
 
 ## About
 
-I am a PhD candidate in Labour, Development and Innovation at the University of Modena and Reggio Emilia - Fondazione Marco Biagi, researching efficiency and market dynamics in residential care facilities. My research combines advanced econometric methods with policy-relevant analysis.
+I am a PhD candidate inHealth and social care economics and policy at the University of Modena and Reggio Emilia - Fondazione Marco Biagi, researching efficiency and market dynamics in residential care facilities. My research combines advanced econometric methods with policy-relevant analysis.
+I am a Research member affiliate at CAPP - Centre for Public Policy Analysis (Unimore), CPEC - Care Policy and Evaluation Centre (London S. of Economics), and G. Brodolini Foundation.
 
 **Research interests:**
 - Healthcare efficiency measurement and cost analysis
